@@ -5,9 +5,10 @@
 }
 
 #link {
-    max-width: 980px;
-    margin-left: 300px;
+    
     margin-top: 12px;
+    text-align: center;
+    
 }
 
 #logo1 {
@@ -126,54 +127,39 @@
 
 }
 #logo3 {
-    margin-left: 352px;
+    margin-left: 202px;
     width: 142px;
     height: 32px;
+    vertical-align: middle;
+
 }
 
-#box3 {
-    width: 1920px;
+#footer-conteiner {
+    
     background-color: #6941C6;
-     margin-top: 535px;
-     padding: 48px;
-}
-#Overview {
-    text-decoration: none;
-    color: #FFF;
-    margin-left: 32px;
+    height: 124px;
+    padding: 48px;
+    margin-top: 535px;
     
 }
-#Features {
-        text-decoration: none;
-    color: #FFF;
-    margin-left: 32px;
-}
-#Pricing {
-  
+#link-box {
+    vertical-align: middle;
+    display: inline-block;
     text-decoration: none;
-    color: #FFF;
-    margin-left: 32px;
+    margin-left: 192px;
+
 }
-#Careers {
+a {
+    text-decoration: none;
+    margin-left: 10px;
+    color: aliceblue;
+}
+#UI {
    
-    text-decoration: none;
-    color: #FFF;
-    margin-left: 32px;
-}
-#Help {
-   
-    text-decoration: none;
-    color: #FFF;
-    margin-left: 32px;
-}
-#Privacy {
-    
-    text-decoration: none;
-    color: #FFF;
-    margin-left: 32px;
-}
-#ui {
-    width: 160px;
-    height: 24px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 192px;
+    color: aliceblue;
+
 }
 
