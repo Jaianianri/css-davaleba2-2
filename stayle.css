@@ -42,7 +42,7 @@
 
 }
 
-#Help {
+#Help1 {
     color: #323232;
 
     font-family: Inter;
@@ -125,12 +125,55 @@
     margin-left: 542px;
 
 }
+#logo3 {
+    margin-left: 352px;
+    width: 142px;
+    height: 32px;
+}
 
 #box3 {
-    max-width: 1920px;
+    width: 1920px;
+    background-color: #6941C6;
+     margin-top: 535px;
+     padding: 48px;
 }
 #Overview {
-    margin-left: 192px;
     text-decoration: none;
+    color: #FFF;
+    margin-left: 32px;
     
 }
+#Features {
+        text-decoration: none;
+    color: #FFF;
+    margin-left: 32px;
+}
+#Pricing {
+  
+    text-decoration: none;
+    color: #FFF;
+    margin-left: 32px;
+}
+#Careers {
+   
+    text-decoration: none;
+    color: #FFF;
+    margin-left: 32px;
+}
+#Help {
+   
+    text-decoration: none;
+    color: #FFF;
+    margin-left: 32px;
+}
+#Privacy {
+    
+    text-decoration: none;
+    color: #FFF;
+    margin-left: 32px;
+}
+#ui {
+    width: 160px;
+    height: 24px;
+}
+
